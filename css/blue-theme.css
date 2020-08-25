@@ -1,0 +1,41 @@
+:root{
+	--mainColor:#15202B;
+	--secondaryColor:#192734;
+
+	--borderColor:#164D56;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgb(25, 39, 52, 0.8);
+	--previewShadow:#111921;
+
+	--buttonColor:#17a2b8;
+}
+
+.post-preview {
+  color: #fff;
+  background-color: #1c232b;
+}
+
+.post-title {
+  color: #eeeeee;
+}
+
+.post-intro {
+  color: #bbbbbb;
+}
+
+.post .btn, .post .btn2 {
+	background-color: #192734;
+	border: 1px solid var(--borderColor)
+	;
+}
+
+.post .btn:hover, .post .btn2:hover {
+  background-color: #fff;
+  color: #17a2b8;
+
+}

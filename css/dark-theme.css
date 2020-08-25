@@ -1,0 +1,40 @@
+:root{
+	--mainColor: rgb(15, 15, 15);
+	--secondaryColor: #101418;
+
+	--borderColor:#162f33;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgba(27, 31, 34, 0.8);
+	--previewShadow:#111921;
+
+
+	--buttonColor:#17a2b8;
+}
+
+.post-preview {
+  color: #fff;
+  background-color: #101418;
+}
+
+.post-title {
+  color: #eeeeee;
+}
+
+.post-intro {
+  color: #bbbbbb;
+}
+
+.post .btn, .post .btn2 {
+  background-color: #192734;
+}
+
+.post .btn:hover, .post .btn2:hover {
+  background-color: #fff;
+  color: #17a2b8;
+
+}
