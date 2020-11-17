@@ -329,6 +329,8 @@ a {
   grid-template-columns: repeat(auto-fit, 320px);
   gap: 25px;
   justify-content: center;
+  justify-items: center;
+  align-items: center;
   padding-bottom: 50px;
 }
 
